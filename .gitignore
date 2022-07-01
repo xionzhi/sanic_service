@@ -1,0 +1,13 @@
+.idea/
+
+.vscode/
+
+__pycache__/
+
+*pyc
+
+log/*.log
+
+log/*
+
+statics/amr/*.amr
